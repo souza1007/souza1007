@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### THALYA 😄
+eu amo jogar volei 
+nao gosto de estudar
 <!--
 **souza1007/souza1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
