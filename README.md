@@ -1,6 +1,7 @@
 ### THALYA 😄
-eu amo jogar volei 
+eu amo jogar volei
 nao gosto de estudar
+###thalya.souza@escola.pr.gov.br
 <!--
 **souza1007/souza1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
